@@ -24,4 +24,10 @@
 ### Machine Learning Applications:
 - Sales Prediction Models: Use machine learning to predict future sales based on various features.
 - Recommendation Systems: Develop a system to recommend games to users based on their preferences or similar user p
+
+- 
+<img width="1165" height="758" alt="photo3" src="https://github.com/user-attachments/assets/c3d5faf5-fdf1-4064-ac63-dc6d85158d07" />
+<img width="845" height="455" alt="photo2" src="https://github.com/user-attachments/assets/a03e6f03-72c7-4a9f-9c89-e413f0b8d651" />
+
+
 <img width="842" height="545" alt="photo4" src="https://github.com/user-attachments/assets/9d9f3ade-510a-4a9b-9460-02b06a7d8479" />
