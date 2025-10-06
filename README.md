@@ -1,4 +1,4 @@
-# Video Game dataset analysis and ML Recommender
+# Video Game dataset analysis and ML Recommendation
 
 ## Goals:
 - data exploration
