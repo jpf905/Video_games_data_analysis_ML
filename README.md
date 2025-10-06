@@ -2,7 +2,7 @@
 
 <img width="909" height="856" alt="photo1" src="https://github.com/user-attachments/assets/ca0d9774-ad62-458a-bcfd-5dfe2b033152" />
 
-
+### **Goals**
 - data exploration
 - data cleaning
 - data analysis
