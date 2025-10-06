@@ -1,5 +1,7 @@
 # Video Game dataset analysis and ML Recommendation
 
+
+https://github.com/jpf905/Video_games_data_analysis_ML/blob/main/photo1.png
 ## Goals:
 - data exploration
 - data cleaning
